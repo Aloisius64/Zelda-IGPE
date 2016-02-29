@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/bluecove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/eventbus.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jbullet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-blender.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-bullet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-bullet-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-bullet-natives-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-desktop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-effects.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-jbullet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-jogg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-networking.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-niftygui.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-plugins.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-terrain.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/jME3-testdata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/j-ogg-oggd.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/launch4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/nifty.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/nifty-default-controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/nifty-default-controls-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/nifty-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/nifty-style-black.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/proguard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/retrace.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/stack-alloc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/vecmath.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/xmlpull-xpp3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aloisius/workspaces/workspace/Zelda2D/Libraries/xstream.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
